@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //dody latihan//
 using namespace std;
 int main()
 {
